@@ -70,11 +70,10 @@ Tested with Python 3.14.7 and OpenJDK 21.0.12.1.
 Clone the repository:
 
 ```bash
-git clone https://github.com/<your-user>/pumpkin-auto.git "$HOME/pumpkin-auto"
+git clone https://github.com/p0int01/pumpkin-auto.git "$HOME/pumpkin-auto"
 cd "$HOME/pumpkin-auto"
 ```
-
-Replace `<your-user>` with your GitHub username. You can also download and extract the repository ZIP from GitHub.
+You can also download and extract the repository ZIP from GitHub.
 
 ### 2. Make the Python files executable
 
